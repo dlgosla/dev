@@ -1,0 +1,5 @@
+1st,dad ,30
+2st,dad ,30
+3st,dad ,30
+4st,dad ,30
+5st,dad ,20
